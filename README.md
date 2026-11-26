@@ -5,6 +5,95 @@
 💼 [LinkedIn](https://www.linkedin.com/in/sai-kumar-mupp) &nbsp;|&nbsp; 🌐 [Portfolio](https://sai-kumar-mupparthi-portfolio.netlify.app) &nbsp;|&nbsp; ✉️ mupparthisaikumar035@gmail.com
 
 <!-- profilescape:start -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/hero-light.svg" alt="Sai Kumar Mupparthi — Machine Learning Engineer" width="100%" />
+</picture>
+
+<p align="center">
+<a href="https://github.com/sai-kumar-mupparthi">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-github-light.svg" alt="GitHub: sai-kumar-mupparthi" />
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/sai-kumar-mupp">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-linkedin-light.svg" alt="LinkedIn: sai-kumar-mupp" />
+</picture>
+</a>
+<a href="https://sai-kumar-mupparthi.netlify.app">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-website-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-website-light.svg" alt="sai-kumar-mupparthi.netlify.app" />
+</picture>
+</a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stats-light.svg" alt="GitHub stats: 22 contributions in the last 12 months. Current streak: 1 day, Longest streak: 1 day, Commits: 13 past year, All-time: 22 since 2026, Best week: 18 in 7 days, On GitHub: 24 days." width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/3d-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/3d-light.svg" alt="3D contribution landscape: 22 contributions in the last year" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/languages-light.svg" alt="Most used languages (by commits): No language data yet" width="100%" />
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/sai-kumar-mupparthi/clinical-agentic-ai">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-clinical-agentic-ai-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-clinical-agentic-ai-light.svg" alt="clinical-agentic-ai" width="100%" />
+</picture>
+</a>
+    </td>
+    <td width="50%">
+<a href="https://github.com/sai-kumar-mupparthi/healthcare-rag-assistant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-healthcare-rag-assistant-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-healthcare-rag-assistant-light.svg" alt="healthcare-rag-assistant" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/sai-kumar-mupparthi/patient-readmission-prediction">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-patient-readmission-prediction-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-patient-readmission-prediction-light.svg" alt="patient-readmission-prediction" width="100%" />
+</picture>
+</a>
+    </td>
+    <td width="50%">
+<a href="https://github.com/sai-kumar-mupparthi/clinical-nlp-pipeline">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-clinical-nlp-pipeline-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/repo-sai-kumar-mupparthi-clinical-nlp-pipeline-light.svg" alt="clinical-nlp-pipeline" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stack-light.svg" alt="Tech stack: Python, PyTorch, LangChain, Hugging Face, Docker, PostgreSQL" width="100%" />
+</picture>
+
 <!-- profilescape:end -->
 
 ## About me
