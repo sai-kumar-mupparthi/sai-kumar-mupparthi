@@ -22,7 +22,7 @@ jobs:
             {
               "options": {
                 "hero": {
-                  "name": "Sai Kumar Mupparthi",
+                  "name": "Sai Kumar",
                   "role": "Machine Learning Engineer",
                   "tagline": "Building agentic AI, RAG and LLM systems",
                   "chips": ["Python", "PyTorch", "RAG / LLMs", "AWS"],
@@ -35,6 +35,9 @@ jobs:
                     "linkedin": "sai-kumar-mupp"
                   },
                   "handles": true
+                },
+                "repos": {
+                  "count": 6
                 },
                 "stack": {
                   "icons": ["python", "pytorch", "langchain", "huggingface", "docker", "postgresql"]
