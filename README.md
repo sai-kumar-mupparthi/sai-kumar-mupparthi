@@ -24,10 +24,10 @@
   <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-linkedin-light.svg" alt="LinkedIn: sai-kumar-mupp" />
 </picture>
 </a>
-<a href="https://sai-kumar-mupparthi.netlify.app">
+<a href="https://sai-kumar-mupparthi-portfolio.netlify.app">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-website-dark.svg" />
-  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-website-light.svg" alt="sai-kumar-mupparthi.netlify.app" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/social-website-light.svg" alt="sai-kumar-mupparthi-portfolio.netlify.app" />
 </picture>
 </a>
 </p>
