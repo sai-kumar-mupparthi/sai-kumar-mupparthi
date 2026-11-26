@@ -1,0 +1,43 @@
+name: Profilescape
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # every day at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: chethandvg/profilescape@v1
+        with:
+          cards: hero,socials,stats,3d,languages,repos,stack
+          theme: aurora
+          readme: README.md
+          repos: clinical-agentic-ai,healthcare-rag-assistant,patient-readmission-prediction,clinical-nlp-pipeline,fraud-detection-credit-risk,ecommerce-recommendations
+          config: |
+            {
+              "options": {
+                "hero": {
+                  "name": "Sai Kumar Mupparthi",
+                  "role": "Machine Learning Engineer",
+                  "tagline": "Building agentic AI, RAG and LLM systems",
+                  "chips": ["Python", "PyTorch", "RAG / LLMs", "AWS"],
+                  "status": "open to new roles",
+                  "code": "auto",
+                  "codeLanguage": "python"
+                },
+                "socials": {
+                  "links": {
+                    "linkedin": "sai-kumar-mupp"
+                  },
+                  "handles": true
+                },
+                "stack": {
+                  "icons": ["python", "pytorch", "langchain", "huggingface", "docker", "postgresql"]
+                }
+              }
+            }
