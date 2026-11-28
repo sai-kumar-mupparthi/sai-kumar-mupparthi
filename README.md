@@ -34,7 +34,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stats-light.svg" alt="GitHub stats: 43 contributions in the last 12 months. Current streak: 1 day, Longest streak: 1 day, Commits: 34 past year, All-time: 43 since 2026, Best week: 25 in 7 days, On GitHub: 24 days." width="100%" />
+  <img src="https://raw.githubusercontent.com/sai-kumar-mupparthi/sai-kumar-mupparthi/profilescape-output/stats-light.svg" alt="GitHub stats: 43 contributions in the last 12 months. Current streak: 0 days, Longest streak: 1 day, Commits: 34 past year, All-time: 43 since 2026, Best week: 25 in 7 days, On GitHub: 25 days." width="100%" />
 </picture>
 
 <picture>
